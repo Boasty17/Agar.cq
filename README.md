@@ -1,7 +1,7 @@
-Agar.io Clone
+Agar.cq
 =============
 
-**CONTRIBUTOR WANTED: I'm really sorry for not have enough time to maintain this project. I'm looking for contributors who willing to keep this project going. If you feel happy to join. Please contact me via my Twitter: @huydotnet. Thank you so much!**
+**Files do not belong to me, they belong to huytd. f you want the source, go check his profile and dont do -login, or it crash the whole server**
 
 [![GitHub Stars](https://img.shields.io/github/stars/huytd/agar.io-clone.svg)](https://github.com/huytd/agar.io-clone/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/huytd/agar.io-clone.svg)](https://github.com/huytd/agar.io-clone/issues)
