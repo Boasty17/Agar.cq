@@ -3,6 +3,12 @@
     font-size: 14px;
 }
 
+.scrollcontainer{
+  height: 300px;
+  width: 300px;
+  overflow: auto;
+}
+
 html, body {
     background-color: #222;
     overflow: hidden;
